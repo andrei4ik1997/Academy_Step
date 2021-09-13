@@ -1,0 +1,12 @@
+.delete {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.delete__button {
+  background-color: #db3345;
+  width: 45%;
+}

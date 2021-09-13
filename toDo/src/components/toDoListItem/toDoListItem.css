@@ -1,0 +1,35 @@
+.list__item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  width: 100%;
+  height: 30px;
+  border: solid #e4e4e4 2px;
+  padding: 0px 10px;
+  border-radius: 5px;
+  height: 100%;
+}
+.item {
+  width: 80%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.list__item_input{
+height: 45px;
+width: 100%;
+padding-right: 10px ;
+border: none
+}
+
+.item_finish {
+  text-decoration: line-through;
+  color: #c94d62;
+}
+.item__icon {
+  background-color: transparent;
+  color: black;
+  border: none;
+}
+

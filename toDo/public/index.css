@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+}
+#root {
+  width: 500px;
+  margin: 0px auto;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+  align-items: center;
+  justify-content: center;
+  border: solid black 2px;
+}
+
+button {
+  color: white;
+  border: none;
+  background-color: #16a3b7;
+  border-radius: 5px;
+  height: 30px;
+  cursor: pointer;
+}
+input {
+  outline: none;
+  
+
+}
